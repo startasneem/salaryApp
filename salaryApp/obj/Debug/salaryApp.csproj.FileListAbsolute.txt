@@ -1,0 +1,9 @@
+D:\tasneem\salaryApp\salaryApp\bin\Debug\salaryApp.exe.config
+D:\tasneem\salaryApp\salaryApp\bin\Debug\salaryApp.exe
+D:\tasneem\salaryApp\salaryApp\bin\Debug\salaryApp.pdb
+D:\tasneem\salaryApp\salaryApp\obj\Debug\salaryApp.csprojResolveAssemblyReference.cache
+D:\tasneem\salaryApp\salaryApp\obj\Debug\salaryApp.SalaryUI.resources
+D:\tasneem\salaryApp\salaryApp\obj\Debug\salaryApp.Properties.Resources.resources
+D:\tasneem\salaryApp\salaryApp\obj\Debug\salaryApp.csproj.GenerateResource.Cache
+D:\tasneem\salaryApp\salaryApp\obj\Debug\salaryApp.exe
+D:\tasneem\salaryApp\salaryApp\obj\Debug\salaryApp.pdb
